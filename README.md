@@ -6,8 +6,7 @@
 
 Since 2018, we have provided formal verification and security services to numerous blockchain foundations and dApps, such as [Uniswap](https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Uniswap-V1.pdf), [Ethereum Foundation](https://github.com/runtimeverification/publications/blob/main/reports/consensus-protocols/Ethereum-BeaconChain.pdf), [Gnosis](https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/GnosisSafe.pdf), [Morpho](https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Morpho-Audit-Report.pdf), [Polkadot](https://github.com/runtimeverification/polkadot-verification) and many others. 
 
-Here you can find a complete list of our previous engagements. 
- [Formal Verification and Audit Reports](https://github.com/runtimeverification/publications)
+Here you can find a complete list of our [previous engagements.](https://github.com/runtimeverification/publications) 
  
 This GitHub Organization hosts all of Runtime Verification's open-source tools and projects, designed to improve the security and reliability of blockchain and software systems through formal verification.
 
