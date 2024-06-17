@@ -4,7 +4,7 @@
 
 [Runtime Verification](https://runtimeverification.com/) specializes in formal verification of software systems, providing the highest level of assurance for the correctness and security of smart contracts and other critical software. Our mission is to develop open-source formal verification and other developer tooling to reduce the costs of auditing and enable continuous formal verification and testing for each commit.
 
-Since 2018, we have provided formal verification and security services to blockchain applications. 
+Since 2018, we have provided formal verification and security services to numerous blockchain foundations and dApps, such as Uniswap, Ethereum Foundation, EigenLayer, Gnosis, MakerDAO, etc. 
 
 Here you can find a list of our previous engagements. 
  [Formal Verification and Audit Reports](https://github.com/runtimeverification/publications)
