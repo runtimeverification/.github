@@ -4,6 +4,8 @@
 
 [Runtime Verification](https://runtimeverification.com/) specializes in formal verification of software systems, providing the highest level of assurance for the correctness and security of smart contracts and other critical software. Our mission is to deliver open-source formal verification and developer tooling to reduce the costs of auditing and enable continuous formal verification and testing on each commit.
 
+[Schedule a call with us](https://calendly.com/d/ckz5-jcs-bk9/runtime-verification-everett-greg) to discuss formal verification & security engagements, along with custom tooling development & integration.
+
 Since 2018, we have provided formal verification and security services to numerous blockchain foundations and dApps, such as [Optimism](https://runtimeverification.com/blog/kontrol-integrated-verification-of-the-optimism-pausability-mechanism), [Uniswap](https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Uniswap-V1.pdf), [Ethereum Foundation](https://github.com/runtimeverification/publications/blob/main/reports/consensus-protocols/Ethereum-BeaconChain.pdf), [Lido](https://snapshot.org/#/lido-snapshot.eth/proposal/0x3bdf528b31956e029e867ebf79b02ee07e9a973987b34c5cffc14392e8b4480c), [Gnosis](https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/GnosisSafe.pdf), [Morpho](https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Morpho-Audit-Report.pdf), [Polkadot](https://github.com/runtimeverification/polkadot-verification) and many others. 
 
 Here you can find a complete list of our [previous engagements.](https://github.com/runtimeverification/publications) 
