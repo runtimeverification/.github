@@ -1,12 +1,14 @@
 <picture>
-  <img alt="runtime verification logo" src="https://github.com/runtimeverification/runtimeverification/blob/main/rv%20logo%20white.svg" width="auto" height="200">
+  <img alt="runtime verification logo" src="https://github.com/runtimeverification/runtimeverification/blob/main/rv%20logo%20white.svg" width="200" height="100">
 </picture>
 
 # Runtime Verification
 
 [Runtime Verification](https://runtimeverification.com/) specializes in formal verification of software systems, providing the highest level of assurance for the correctness and security of smart contracts and other critical software. Our mission is to develop open-source formal verification and other developer tooling to reduce the costs of auditing and enable continuous formal verification and testing for each commit.
 
-Since 2018, we provide formal verification and security services to blockchain applications. Here you can find a list of our previous engagements. 
+Since 2018, we have provided formal verification and security services to blockchain applications. 
+
+Here you can find a list of our previous engagements. 
  [Formal Verification and Audit Reports](https://github.com/runtimeverification/publications)
  
 This GitHub Organization hosts all of Runtime Verification's open-source tools and projects, designed to improve the security and reliability of blockchain and software systems through formal verification.
