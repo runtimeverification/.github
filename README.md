@@ -1,5 +1,5 @@
 <picture>
-  <img alt="runtime verification logo" src="https://github.com/runtimeverification/runtimeverification/blob/main/RV%20Logo.svg" width="auto" height="120">
+  <img alt="runtime verification logo" src="https://github.com/runtimeverification/runtimeverification/blob/main/rv%20logo%20white.svg" width="auto" height="auto">
 </picture>
 
 # Runtime Verification
