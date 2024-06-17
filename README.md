@@ -1,8 +1,6 @@
 <picture>
-  <img alt="runtime verification logo" src="https://github.com/runtimeverification/runtimeverification/blob/main/rv%20logo%20white.svg" width="200" height="100">
+  <img alt="runtime verification logo" src="https://github.com/runtimeverification/runtimeverification/blob/main/rv%20logo%20white.svg" width="300" height="150">
 </picture>
-
-# Runtime Verification
 
 [Runtime Verification](https://runtimeverification.com/) specializes in formal verification of software systems, providing the highest level of assurance for the correctness and security of smart contracts and other critical software. Our mission is to develop open-source formal verification and other developer tooling to reduce the costs of auditing and enable continuous formal verification and testing for each commit.
 
