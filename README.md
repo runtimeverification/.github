@@ -14,13 +14,12 @@ We are currently building and maintaining the following projects:
 
 1. [K Framework](https://github.com/kframework/k): A rewrite-based executable semantic framework that allows formal definition of programming languages and VMs.
 2. [Kontrol](https://github.com/runtimeverification/kontrol): Combines KEVM and Foundry to enable developers to perform formal verification without learning new languages or tools.
-3. [Simbolik](https://marketplace.visualstudio.com/items?itemName=RuntimeVerification.simbolik&ssr=false#review-details): A symbolic execution engine designed to assist in debugging and verifying smart contracts.
+3. [Simbolik](https://marketplace.visualstudio.com/items?itemName=RuntimeVerification.simbolik&ssr=false#review-details): VSCode-compatible Solidity debugger with built-in symbolic execution engine designed to assist in debugging and verifying smart contracts.
 4. [KEVM](https://github.com/kframework/evm-semantics): An executable formal specification of the Ethereum Virtual Machine (EVM) in the K framework.
 5. [KWasm](https://github.com/kframework/wasm-semantics): A formal semantics of WebAssembly in the K framework, allowing formal analysis and verification of WebAssembly programs.
 6. [KMIR](https://github.com/runtimeverification/mir-semantics): A formal semantics of the MIR (Mid-level Intermediate Representation) in the K framework.
 7. [Kasmer](https://kasmer.runtimeverification.com/): A formal verification tool for WebAssembly, based on KWasm.
 8. [KaaS](https://kaas.runtimeverification.com/): CI Integrated Cloud-Based Symbolic Execution.
-
 
 You can learn more about [our tools from Runtime Verification docs](https://docs.runtimeverification.com/index).
 
